@@ -40,7 +40,7 @@ All plots are saved inside the `figures/` directory.
 ## 📊 Sample Outputs
 
 ### 🔺 Line Chart – Unemployment Rate Trend
-![Line Chart](../figures/line_chart_2020.png)
+![Line Chart](../Task-02-Unemployment-Analysis/figures/line_chart_2020.png)
 
 ### 🔥 Heatmap – Correlation
 ![Heatmap](../figures/heatmap.png)
