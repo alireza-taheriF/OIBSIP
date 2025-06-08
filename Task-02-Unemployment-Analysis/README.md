@@ -43,10 +43,10 @@ All plots are saved inside the `figures/` directory.
 ![Line Chart](../Task-02-Unemployment-Analysis/figures/line_chart_2020.png)
 
 ### 🔥 Heatmap – Correlation
-![Heatmap](../figures/heatmap.png)
+![Heatmap](../Task-02-Unemployment-Analysis/figures/heatmap.png)
 
 ### 📍 Bar Chart – Top Regions
-![Bar Chart](../figures/bar_chart_regions_india.png)
+![Bar Chart](../Task-02-Unemployment-Analysis/figures/bar_chart_regions_india.png)
 
 ---
 
