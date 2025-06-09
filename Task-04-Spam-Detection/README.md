@@ -90,7 +90,7 @@ Model Comparison
 ## 🗂 Project Structure
 ```bash
 .
-├── Data/                  # SMS dataset
+├── Data/                  # Email dataset
 ├── figures/               # Generated visualizations
 │   ├── confusion_matrix_*.png
 │   └── wordcloud_*.png
