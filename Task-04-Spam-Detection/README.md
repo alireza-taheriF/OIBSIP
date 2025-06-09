@@ -2,11 +2,10 @@
 
 Machine learning solution for classifying Email messages as spam or ham, achieving 98% accuracy.
 
-![Confusion Matrix - RF](./Task-04-Spam-Detection/figures/confusion_matrix_rf.png)
-![Spam WordCloud](./Task-04-Spam-Detection/figures/wordcloud_spam.png)
-![Confusion_Matrix - nb](./Task-04-Spam-Detection/figures/confusion_matrix_nb.png)
-![confusion_matrix](./Task-04-Spam-Detection/figures/confusion_matrix.png)
-![wordcloud_ham](./Task-04-Spam-Detection/figures/wordcloud_ham.png)
+![Confusion Matrix - RF](../Task-04-Spam-Detection/figures/confusion_matrix_rf.png)
+![Spam WordCloud](../Task-04-Spam-Detection/figures/wordcloud_spam.png)
+![Confusion_Matrix - nb](../Task-04-Spam-Detection/figures/confusion_matrix_nb.png)
+![wordcloud_ham](../Task-04-Spam-Detection/figures/wordcloud_ham.png)
 
 
 
